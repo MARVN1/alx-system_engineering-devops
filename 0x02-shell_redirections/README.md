@@ -14,3 +14,4 @@ scriopts that print statement
 13.make each words unique
 14.find the word
 15. count that word
+16. root with 3 lines afterwords

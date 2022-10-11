@@ -12,3 +12,4 @@ scriopts that print statement
 11.print directories and subs
 12.get newest files
 13.make each words unique
+14.find the word

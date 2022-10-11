@@ -19,3 +19,4 @@ scriopts that print statement
 18. a to z
 19. zeh AZ
 20. remove all Cc's
+21. reverse

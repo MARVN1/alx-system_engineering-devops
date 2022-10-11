@@ -11,3 +11,4 @@ scriopts that print statement
 10.no more js
 11.print directories and subs
 12.get newest files
+13.make each words unique

@@ -4,3 +4,4 @@ scriopts that print statement
 3.view 2 files content at once
 4.display the last 10 lines
 5.display the first 10 lines
+6.display the third line of iacta

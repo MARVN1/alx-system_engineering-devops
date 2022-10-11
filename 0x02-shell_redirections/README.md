@@ -8,3 +8,4 @@ scriopts that print statement
 7.what was that line of command all about  filled with ////
 8.cwd_ state
 9.duplicate last line
+10.no more js

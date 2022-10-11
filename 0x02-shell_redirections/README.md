@@ -9,3 +9,4 @@ scriopts that print statement
 8.cwd_ state
 9.duplicate last line
 10.no more js
+11.print directories and subs

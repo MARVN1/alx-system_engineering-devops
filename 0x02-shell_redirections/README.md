@@ -22,3 +22,4 @@ scriopts that print statement
 21. reverse
 22. user and homes 
 23. ADVANCED TASK1 EMPTY CASKS
+24. advanced task2 gifs

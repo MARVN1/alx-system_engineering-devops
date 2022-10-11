@@ -5,3 +5,4 @@ scriopts that print statement
 4.display the last 10 lines
 5.display the first 10 lines
 6.display the third line of iacta
+7.what was that line of command all about  filled with ////

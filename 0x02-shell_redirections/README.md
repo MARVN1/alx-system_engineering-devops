@@ -23,3 +23,4 @@ scriopts that print statement
 22. user and homes 
 23. ADVANCED TASK1 EMPTY CASKS
 24. advanced task2 gifs
+25. advanced task3 acrostic

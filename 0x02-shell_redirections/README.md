@@ -10,3 +10,4 @@ scriopts that print statement
 9.duplicate last line
 10.no more js
 11.print directories and subs
+12.get newest files

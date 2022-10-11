@@ -6,3 +6,4 @@ scriopts that print statement
 5.display the first 10 lines
 6.display the third line of iacta
 7.what was that line of command all about  filled with ////
+8. cwd_ state

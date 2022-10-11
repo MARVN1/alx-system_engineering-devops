@@ -15,3 +15,4 @@ scriopts that print statement
 14.find the word
 15. count that word
 16. root with 3 lines afterwords
+17. hide them words

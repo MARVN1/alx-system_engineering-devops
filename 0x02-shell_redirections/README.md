@@ -13,3 +13,4 @@ scriopts that print statement
 12.get newest files
 13.make each words unique
 14.find the word
+15. count that word

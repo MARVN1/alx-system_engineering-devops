@@ -20,3 +20,4 @@ scriopts that print statement
 19. zeh AZ
 20. remove all Cc's
 21. reverse
+22. user and homes 

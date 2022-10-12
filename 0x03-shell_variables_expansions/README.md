@@ -5,3 +5,4 @@
 4.scripts that list environment variables
 5.scripts that list environment,local and functions
 6.scripts that creates new local variable
+7.create global variable

@@ -8,3 +8,4 @@
 7.create global variable
 8.print the result of addition, stored in environment variable TRUEKNOWLEDGE
 9.power divide by divide
+10.breath to the power of love

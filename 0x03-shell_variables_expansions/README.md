@@ -9,3 +9,4 @@
 8.print the result of addition, stored in environment variable TRUEKNOWLEDGE
 9.power divide by divide
 10.breath to the power of love
+11.convert from base 2 to decimals

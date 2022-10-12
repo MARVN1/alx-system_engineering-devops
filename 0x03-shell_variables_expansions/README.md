@@ -4,3 +4,4 @@
 3.count the number of directories in a path
 4.scripts that list environment variables
 5.scripts that list environment,local and functions
+6.scripts that creates new local variable

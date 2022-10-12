@@ -10,3 +10,4 @@
 9.power divide by divide
 10.breath to the power of love
 11.convert from base 2 to decimals
+12.print every combintions of two letters

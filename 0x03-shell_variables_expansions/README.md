@@ -1,1 +1,2 @@
-create an alias
+0.create an alias
+1.hello user prints

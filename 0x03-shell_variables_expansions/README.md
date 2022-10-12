@@ -7,3 +7,4 @@
 6.scripts that creates new local variable
 7.create global variable
 8.print the result of addition, stored in environment variable TRUEKNOWLEDGE
+9.power divide by divide

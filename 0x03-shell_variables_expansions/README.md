@@ -6,11 +6,6 @@
 5.scripts that list environment,local and functions
 6.scripts that creates new local variable
 7.create global variable
-8.print the result of addition, stored in environment variable TRUEKNOWLEDGE
-9.power divide by divide
-10.breath to the power of love
-11.convert from base 2 to decimals
-12.print every combintions of two letters
-13.print numbers in two decimal place
-14. advanced deci to hexadeci
-15. advanced encodes and decodes
+8.print the result of addition, stored in environment variable
+9-15 erased 
+16.print every input starting from the first line

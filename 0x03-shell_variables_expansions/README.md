@@ -13,3 +13,4 @@
 12.print every combintions of two letters
 13.print numbers in two decimal place
 14. advanced deci to hexadeci
+15. advanced encodes and decodes

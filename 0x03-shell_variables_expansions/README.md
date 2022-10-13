@@ -9,3 +9,4 @@
 8.print the result of addition, stored in environment variable
 9-15 erased 
 16.print every input starting from the first line
+17.add tow numbers stored in an environment variable
